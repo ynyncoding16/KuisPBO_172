@@ -1,0 +1,14 @@
+LAPORAN SISA STOK PRODUK
+================================
+Kode Produk : OBJ-A
+Nama Produk : Laptop Premium
+Sisa Stok   : 6
+
+Kode Produk : OBJ-B
+Nama Produk : Kemeja Reguler
+Sisa Stok   : 2
+
+Kode Produk : OBJ-C
+Nama Produk : Snack Ekonomis
+Sisa Stok   : 48
+
